@@ -1,5 +1,7 @@
 package org.itstep;
 
+import org.itstep.model.Circle;
+
 public class AppRunner {
 
 	public static void main(String[] args) {
